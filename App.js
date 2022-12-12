@@ -1,7 +1,7 @@
 import { StatusBar } from "expo-status-bar";
 import React,{ Component } from "react";
 import {Text} from "react-native";
-import Logindemo from "./src/Logindemo";
+import Logindemo from "./src/screens/Logindemo";
 
 class App extends Component{
   render(){
